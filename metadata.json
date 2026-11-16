@@ -1,0 +1,6 @@
+{
+  "name": "Platter House Restaurant Mardan",
+  "description": "Authentic Pakistani charcoal BBQ, Mixed BBQ Platters with Kabuli Pulao, fresh tandoori naan, and traditional teas on Nowshera Road, Mardan, KPK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
